@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+    android:background="@drawable/dialog_corner_bg"
+    >
+    <TextView
+        android:id="@+id/diatitle"
+        android:layout_margin="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="请输入RSS源"/>
+    <TextView
+        android:id="@+id/rss1"
+        android:layout_marginHorizontal="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="网易新闻"/>
+    <TextView
+        android:id="@+id/rss2"
+        android:layout_marginHorizontal="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="腾讯新闻"/>
+    <TextView
+        android:id="@+id/rss3"
+        android:layout_marginHorizontal="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="新浪新闻"/>
+    <TextView
+        android:id="@+id/rss4"
+        android:layout_marginHorizontal="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="新华网新闻" />
+</LinearLayout>

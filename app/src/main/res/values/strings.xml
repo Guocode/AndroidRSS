@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidRSS</string>
+    <string name="sina">"http://rss.sina.com.cn/news/china/focus15.xml"</string>
+    <string name="qq">http://news.qq.com/newsgn/rss_newsgn.xml</string>
+    <string name="netease">http://news.163.com/special/00011K6L/rss_newstop.xml</string>
+    <string name="xinhua">http://www.xinhuanet.com/politics/news_politics.xml</string>
+</resources>
